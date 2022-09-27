@@ -1,0 +1,17 @@
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\DataLogger.WinForm.exe
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\DataLogger.WinForm.deps.json
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\DataLogger.WinForm.runtimeconfig.json
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\DataLogger.WinForm.dll
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\DataLogger.WinForm.pdb
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.csproj.AssemblyReference.cache
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.Mainform.resources
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.csproj.GenerateResource.cache
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.AssemblyInfoInputs.cache
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.AssemblyInfo.cs
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.dll
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\refint\DataLogger.WinForm.dll
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.pdb
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.genruntimeconfig.cache
+C:\Users\noahr\source\repos\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\ref\DataLogger.WinForm.dll
