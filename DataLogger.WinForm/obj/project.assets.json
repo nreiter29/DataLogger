@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "DataLogger.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DataLogger.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataLogger.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataLogger.Models/1.0.0": {
+      "type": "project",
+      "path": "../DataLogger.Models/DataLogger.Models.csproj",
+      "msbuildProject": "../DataLogger.Models/DataLogger.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "DataLogger.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\noahr\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.WinForm\\DataLogger.WinForm.csproj",
+      "projectUniqueName": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.WinForm\\DataLogger.WinForm.csproj",
       "projectName": "DataLogger.WinForm",
-      "projectPath": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.WinForm\\DataLogger.WinForm.csproj",
+      "projectPath": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.WinForm\\DataLogger.WinForm.csproj",
       "packagesPath": "C:\\Users\\noahr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.WinForm\\obj\\",
+      "outputPath": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.WinForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noahr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj": {
+              "projectPath": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

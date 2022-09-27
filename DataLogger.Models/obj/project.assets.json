@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj",
+      "projectUniqueName": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj",
       "projectName": "DataLogger.Models",
-      "projectPath": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj",
+      "projectPath": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj",
       "packagesPath": "C:\\Users\\noahr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.Models\\obj\\",
+      "outputPath": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noahr\\AppData\\Roaming\\NuGet\\NuGet.Config",

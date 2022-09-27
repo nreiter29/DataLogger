@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lH5FTOhxADMulaIuKJ3OK3nqtwe/5RS/moa0EFKXgTyo3NF3oVxj1abFkFJxDZEaoPOHqcGlD+Vbihkl2zXT/A==",
+  "dgSpecHash": "Y7P2sKgHftUSt+l7D2LzgrQY1I2mk25dJXurf6nutR7yf8inQ5nDynjo37lZKlKBgA/gLobuXC10147yoxKz5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.WinForm\\DataLogger.WinForm.csproj",
+  "projectFilePath": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.WinForm\\DataLogger.WinForm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

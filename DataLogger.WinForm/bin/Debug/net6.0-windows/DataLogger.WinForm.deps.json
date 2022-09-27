@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "DataLogger.WinForm/1.0.0": {
+        "dependencies": {
+          "DataLogger.Models": "1.0.0"
+        },
         "runtime": {
           "DataLogger.WinForm.dll": {}
+        }
+      },
+      "DataLogger.Models/1.0.0": {
+        "runtime": {
+          "DataLogger.Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DataLogger.WinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLogger.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

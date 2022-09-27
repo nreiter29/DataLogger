@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kK8nNxbNif4ErETJAd1J96172fp+c1owYZ0EkmZRV+Ls0tbxnHfoX2qCzAA8/tpUiuRQPgougrKwV4LKaYqiMw==",
+  "dgSpecHash": "AEUFfETOcEmpDNxSGEkG8aYQjgUw66b56DcEYlwXmdQ8HplxIR0Ydfgi6As9Uf0NHFaLxY8lR3ETwEyBmRvFuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noahr\\source\\repos\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj",
+  "projectFilePath": "C:\\Users\\noahr\\Projekte\\DataLogger\\DataLogger.Models\\DataLogger.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

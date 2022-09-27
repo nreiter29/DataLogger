@@ -1,0 +1,12 @@
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\bin\Debug\net6.0\DataLogger.Models.deps.json
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\bin\Debug\net6.0\DataLogger.Models.dll
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\bin\Debug\net6.0\DataLogger.Models.pdb
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\DataLogger.Models.csproj.AssemblyReference.cache
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\DataLogger.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\DataLogger.Models.AssemblyInfoInputs.cache
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\DataLogger.Models.AssemblyInfo.cs
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\DataLogger.Models.csproj.CoreCompileInputs.cache
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\DataLogger.Models.dll
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\refint\DataLogger.Models.dll
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\DataLogger.Models.pdb
+C:\Users\noahr\Projekte\DataLogger\DataLogger.Models\obj\Debug\net6.0\ref\DataLogger.Models.dll
