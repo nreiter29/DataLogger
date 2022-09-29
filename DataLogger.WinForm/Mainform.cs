@@ -20,7 +20,8 @@ namespace DataLogger.WinForm {
             }
 
             foreach(IWeatherData item in cSVLoader.weatherDatas) {
-                ltbData.Items.Add(item);
+                if(item.GetType() == typeof(WindSpeed)) ltbData.Items.Add(item);
+                else if(item.GetType() == typeof(Temperature)) ltbData2.Items.Add(item);
             }
         }
     }

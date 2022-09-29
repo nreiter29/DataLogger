@@ -35,3 +35,5 @@ C:\Users\noahr\Projekte\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\r
 C:\Users\noahr\Projekte\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\DataLogger.Models.dll
 C:\Users\noahr\Projekte\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\DataLogger.Models.pdb
 C:\Users\noahr\Projekte\DataLogger\DataLogger.WinForm\obj\Debug\net6.0-windows\DataLogger.WinForm.csproj.CopyComplete
+C:\Users\noahr\Projekte\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\LanguageExt.Core.dll
+C:\Users\noahr\Projekte\DataLogger\DataLogger.WinForm\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll

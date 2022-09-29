@@ -26,6 +26,7 @@
             this.btn = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.ltbData = new System.Windows.Forms.ListBox();
+            this.ltbData2 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // btn
@@ -58,11 +59,21 @@
             this.ltbData.Size = new System.Drawing.Size(604, 404);
             this.ltbData.TabIndex = 2;
             // 
+            // ltbData2
+            // 
+            this.ltbData2.FormattingEnabled = true;
+            this.ltbData2.ItemHeight = 25;
+            this.ltbData2.Location = new System.Drawing.Point(693, 87);
+            this.ltbData2.Name = "ltbData2";
+            this.ltbData2.Size = new System.Drawing.Size(604, 404);
+            this.ltbData2.TabIndex = 3;
+            // 
             // Datenlogger
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1373, 597);
+            this.Controls.Add(this.ltbData2);
             this.Controls.Add(this.ltbData);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn);
@@ -78,5 +89,6 @@
         private Button btn;
         private Label label1;
         private ListBox ltbData;
+        private ListBox ltbData2;
     }
 }
