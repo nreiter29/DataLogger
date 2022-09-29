@@ -16,7 +16,11 @@ namespace DataLogger.WinForm {
                 cSVLoader.ImportCSV(ofd.FileName);
             } catch(Exception ex) {
                 if(ex.Message == "Wrong file format") MessageBox.Show("Fehlerhaftes CSV-File");
-                else MessageBox.Show(ex.Message)
+                else MessageBox.Show(ex.Message);
+            }
+
+            foreach(IWeatherData item in cSVLoader.weatherDatas) {
+                ltbData.Items.Add(item);
             }
         }
     }
